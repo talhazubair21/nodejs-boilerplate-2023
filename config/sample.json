@@ -1,0 +1,16 @@
+{
+    "NAME": "Node JS API Name",
+    "PORT": 4000,
+    "JWT_SECRET_KEY": "JWT_Secret_Key",
+    "HOSTNAME": "PROD/DEV http://localhost",
+    "DATABASE": {
+        "NAME": "database_name",
+        "URL": "mongodb://localhost:27017/",
+        "USERNAME": "username",
+        "PASSWORD": "password"
+    },
+    "STRIPE": {
+        "SECRET_KEY": "",
+        "PUBLISH_KEY": ""
+    }
+}
